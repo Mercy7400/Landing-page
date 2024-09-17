@@ -45,6 +45,9 @@ The landing page serves as an introduction to the project. It explains the purpo
 
 The URL Shortener Web App allows users to shorten long URLs into compact URLs for easy sharing. Once a user enters a URL, the app generates a shortened version that redirects to the original URL.
 
+![image](https://github.com/user-attachments/assets/72df818b-2e16-44a2-ad00-0bab2da6b88f)
+
+
 ### Features
 - **URL Input**: Users can input a long URL to generate a short version.
 - **Shortened URL Display**: The shortened URL is displayed to the user, and they can click to navigate to the original URL.
